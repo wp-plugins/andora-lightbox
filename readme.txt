@@ -2,11 +2,12 @@
 Author URI: http://www.abcfolio.com
 Plugin URI: http://abcfolio.com/help/andora-lightbox/
 Contributors: abcfolio
-Tags: lightbox, gallery, grid gallery, images, popup, responsive, responsive gallery, slideshow, photo, album
-Requires at least: 3.5
-Tested up to: 3.8
+Tags: lightbox, gallery, grid gallery, image, images, responsive, responsive gallery, slideshow, photo, album, photo albums, photos, nexgen, pictures
 
-Stable tag: 0.5.2
+Requires at least: 3.5
+Tested up to: 3.9
+
+Stable tag: 0.5.4
 License: GPLv2 or later
 
 Grid Gallery with Lightbox. Fast, light and responsive.
@@ -28,9 +29,10 @@ Grid Gallery with Lightbox. Fast, light and responsive.
 * Easy to add to any page or post - just insert a shortcode.
 * Compatible with all major browsers and mobile devices.
 
-**Custom Image Uploader and Organizer**
+= Custom Image Uploader and Organizer =
 
 Andora Lightbox uses our **[Image Collections](http://wordpress.org/plugins/image-collections/)** plugin to manage all images.
+You may find the concept of custom image management a familiar one if you ever worked with NexGEN Gallery plugin.
 
 * Doesn't rely on WordPress Media Gallery.
 * Images are organized into collections .
@@ -73,6 +75,14 @@ Full documentation: [http://abcfolio.com/help/andora-lightbox/](http://abcfolio.
 Installation Instructions: [http://abcfolio.com/help/andora-lighbox-installation/](http://abcfolio.com/help/andora-lighbox-installation/).
 
 == Changelog ==
+
+= 0.5.4 20140507 =
+
+* Fix: Fixed Cannot redeclare errors in library functions.
+
+= 0.5.3 20140411 =
+
+* Fix: Updated readme file.
 
 = 0.5.2 20140411 =
 

@@ -29,7 +29,7 @@ if ( !function_exists( 'abcf_lib_html_css_style' ) ){
    }
 }
 //---------------------------------------------------------------------
-if ( !function_exists( 'abcf_lib_html_img_tag' ) ){
+if ( !function_exists( 'abcf_lib_img_html_tag' ) ){
     function abcf_lib_img_html_tag($imgID, $src, $alt, $imgTitle, $imgW=0, $imgH=0, $cls='', $style='') {
 
         if (empty($src)) {return '';}

@@ -129,7 +129,7 @@ function abcfal_lib_css_style_wh($w, $h, $maxW=false, $percentW=false, $maxH=fal
 function abcfal_lib_cssbldr_style_margin_tl($t, $l) { return abcf_lib_css_style_tag(abcfal_lib_css_mtl($t, $l));}
 
 //===HELPERS================================================
-if ( !function_exists( '' ) ){
+if ( !function_exists( 'abcf_lib_css_class_tag' ) ){
     function abcf_lib_css_class_tag( $cls ){
         if(abcf_lib_html_isblank($cls)) {return '';}
         return ' class="' . $cls . '"';

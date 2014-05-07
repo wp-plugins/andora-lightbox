@@ -2,10 +2,10 @@
 /*
  * Plugin Name: Andora Lightbox
  * Plugin URI: http://abcfolio.com/help/wordpress-plugin-andora-lightbox/
- * Description: Fullscreen Slideshow for WordPress.
- * Author: abcFolio Quality WordPress Plugins
+ * Description: Grid Gallery with Lightbox. Fast, light and responsive.
+ * Author: abcFolio
  * Author URI: http://www.abcfolio.com
- * Version: 0.5.1
+ * Version: 0.5.4
 */
 
 // Exit if accessed directly
@@ -26,8 +26,7 @@ if ( ! class_exists( 'ABCFAL_Andora_Lightbox' ) ) {
 final class ABCFAL_Andora_Lightbox {
 
     private static $instance;
-    protected $plugin_slug = 'abcffs';
-
+    protected $plugin_slug = 'abcfal';
 
     /**
      * Main PLUGIN Instance
@@ -62,7 +61,7 @@ final class ABCFAL_Andora_Lightbox {
     private function setup_constants() {
 
         // Plugin version $pversion
-        if ( ! defined( 'ABCFAL_VERSION' ) ) { define( 'ABCFAL_VERSION', '0.5.1' ); }
+        if ( ! defined( 'ABCFAL_VERSION' ) ) { define( 'ABCFAL_VERSION', '0.5.4' ); }
         if ( ! defined( 'ABCFAL_ABSPATH' ) ) {  define('ABCFAL_ABSPATH', ABSPATH); }
 
         // Plugin Folder QPath

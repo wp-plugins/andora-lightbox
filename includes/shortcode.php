@@ -7,7 +7,7 @@ if ( ! defined( 'ABSPATH' ) ) {exit;}
 //Add shortcode
 function abcfal_scodes_add( $args ) {
 
-    $args = shortcode_atts( array( 'id' => '0', 'template' => '', 'pversion' => '051' ), $args );
+    $args = shortcode_atts( array( 'id' => '0', 'template' => '', 'pversion' => '054' ), $args );
     wp_enqueue_script( 'abcfal-magnific-js' );
 
     return abcfal_cntbldrs_build_al($args);
