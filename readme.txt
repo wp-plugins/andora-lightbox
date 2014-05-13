@@ -2,12 +2,12 @@
 Author URI: http://www.abcfolio.com
 Plugin URI: http://abcfolio.com/help/andora-lightbox/
 Contributors: abcfolio
-Tags: lightbox, gallery, grid gallery, image, images, responsive, responsive gallery, slideshow, photo, album, photo albums, photos, nexgen, pictures
+Tags: lightbox, gallery, grid gallery, image, images, responsive, responsive gallery, slideshow, photo, album, photo albums, photos, nextgen, pictures
 
 Requires at least: 3.5
 Tested up to: 3.9
 
-Stable tag: 0.5.4
+Stable tag: 0.5.5
 License: GPLv2 or later
 
 Grid Gallery with Lightbox. Fast, light and responsive.
@@ -21,10 +21,11 @@ Grid Gallery with Lightbox. Fast, light and responsive.
 
 [http://abcfolio.com/help/andora-lightbox-light-live-preview/](http://abcfolio.com/help/andora-lightbox-light-live-preview/).
 
-**Features**
+= Features =
 
-* Custom image uploader and organizer.
+* Responsive.
 * Lightweight script, focused on performance.
+* Custom image uploader and organizer.
 * Unlimited number of images.
 * Easy to add to any page or post - just insert a shortcode.
 * Compatible with all major browsers and mobile devices.
@@ -32,13 +33,13 @@ Grid Gallery with Lightbox. Fast, light and responsive.
 = Custom Image Uploader and Organizer =
 
 Andora Lightbox uses our **[Image Collections](http://wordpress.org/plugins/image-collections/)** plugin to manage all images.
-You may find the concept of custom image management a familiar one if you ever worked with NexGEN Gallery plugin.
+You may find the concept of custom image management a familiar one if you ever worked with NextGEN Gallery plugin.
 
-* Doesn't rely on WordPress Media Gallery.
+* You are not limited by WordPress media settings.
+* You can choose any image size for grid gallery thumbnails and lightbox images.
 * Images are organized into collections .
 * Each collection has a name.
 * Each collection has it's own folder.
-* Image dimensions are not limited by WordPress media settings. You can choose any size for thumbnails an lightbox images.
 
 Create a Grid Gallery with Lightbox for your site in minutes.
 
@@ -56,7 +57,7 @@ Full documentation: [http://abcfolio.com/help/andora-lightbox/](http://abcfolio.
 
 [Andora Lightbox Pro](http://abcfolio.com/help/andora-lightbox/) premium version offers these extra features:
 
-* **Responsive.** Responsive when used with responsive themes.
+* **Responsive.**
 * **Templates.** A few templates to choose from. [**Preview**](http://abcfolio.com/help/andora-lightbox-live-previews/)
 * **Captions.**. Each image can have up to 2 captions. [**Preview**](http://abcfolio.com/help/andora-lightbbox-live-preview-gallery-with-captions/)
 * **Image Metadata.** You can extract image metadata and use it as a caption. [**Preview**](http://abcfolio.com/help/andora-lightbbox-live-preview-single-image-with-captions/)
@@ -76,13 +77,19 @@ Installation Instructions: [http://abcfolio.com/help/andora-lighbox-installation
 
 == Changelog ==
 
+= 0.5.5 20140512 =
+
+* New : Grid is now responsive.
+* Fix: Replaced hardcoded version number in shortcode function.
+* Update: Updated readme file.
+
 = 0.5.4 20140507 =
 
 * Fix: Fixed Cannot redeclare errors in library functions.
 
 = 0.5.3 20140411 =
 
-* Fix: Updated readme file.
+* Update: Updated readme file.
 
 = 0.5.2 20140411 =
 

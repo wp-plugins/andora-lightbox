@@ -329,15 +329,12 @@ img.mfp-img {
   padding-top: 0; }
 
 /*== GRID =================================================*/
-.abcfalCntr { position: relative;  margin-left: auto; margin-right: auto; width: 100%; height: auto;}
+.abcfalCntr { position: relative;  margin-left: auto; margin-right: auto; max-width: 100%; height: auto;}
 .abcfalItemCntr { float: left; margin-top: 20px; margin-right: 10px; margin-left: 10px;}
 .abcfalItemCntr { overflow: hidden; position: relative; text-align: center; line-height: 0;}
 .abcfalImgCntr { overflow: hidden; position: relative; text-align: center; line-height: 0;}
-.abcfalImgCntr img {
-  cursor: pointer;
-  cursor: -webkit-zoom-in;
-  cursor: zoom-in; }
-
+.abcfalImg img { cursor: pointer; cursor: -webkit-zoom-in; cursor: zoom-in; }
+.abcfalImgCntr img { cursor: pointer; cursor: -webkit-zoom-in; cursor: zoom-in; }
 
 
 /*--Misc----------------------------------------------------------------*/
