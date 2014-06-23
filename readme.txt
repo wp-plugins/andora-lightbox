@@ -17,9 +17,9 @@ Grid Gallery with Lightbox. Fast, light and responsive.
 
 **Andora Lightbox** - a beautiful Grid Gallery with Lightbox.
 
-= Live Preview =
+= Live Previews =
 
-[http://abcfolio.com/help/andora-lightbox-light-live-preview/](http://abcfolio.com/help/andora-lightbox-light-live-preview/).
+[http://abcfolio.com/help/andora-lightbox-live-previews/](http://abcfolio.com/help/andora-lightbox-live-previews/).
 
 = Features =
 
@@ -29,6 +29,32 @@ Grid Gallery with Lightbox. Fast, light and responsive.
 * Unlimited number of images.
 * Easy to add to any page or post - just insert a shortcode.
 * Compatible with all major browsers and mobile devices.
+
+= Premium Version =
+
+[Andora Lightbox](http://abcfolio.com/help/andora-lightbox/) premium version offers these extra features:
+
+* **Social Share Links.** Visitors can pin, post or share individual photos.  [**Preview**](http://abcfolio.com/help/andora-lightbbox-live-preview-gallery-with-captions/)
+* **Captions.**. Each image can have up to 2 captions.
+* **Lazy load.** Images are preloaded for smooth browsing experience.
+* **Keyboard support.** Lightbox gallery supports keyboard navigation.
+* **Image Metadata.** You can display image metadata as a caption. [**Preview**](http://abcfolio.com/help/andora-lightbbox-live-preview-single-image-with-captions/)
+* **Templates.** A few templates to choose from. [**Preview**](http://abcfolio.com/help/andora-lightbox-live-previews/)
+* **Custom CSS.**  You can match the grid gallery to your WordPress theme.
+* **Custom image management.** Our premium, image uploader and organizer [**Image Collections Pro**](http://abcfolio.com/help/wordpress-plugin-image-collections/) is included.
+* **Premium support**. One-on-one priority support.
+
+[Visit our Premium page.](http://abcfolio.com/help/andora-lightbox/)
+
+
+= User Guide =
+
+Full documentation: [http://abcfolio.com/help/andora-lightbox/](http://abcfolio.com/help/andora-lightbox/).
+
+= Quick Start =
+
+[http://abcfolio.com/help/andora-lightbox-quick-start/](http://abcfolio.com/help/andora-lightbox-quick-start/).
+
 
 = Custom Image Uploader and Organizer =
 
@@ -42,33 +68,6 @@ You may find the concept of custom image management a familiar one if you ever w
 * Each collection has it's own folder.
 
 Create a Grid Gallery with Lightbox for your site in minutes.
-
-
-= User Guide =
-
-Full documentation: [http://abcfolio.com/help/andora-lightbox/](http://abcfolio.com/help/andora-lightbox/).
-
-= Quick Start =
-
-[http://abcfolio.com/help/andora-lightbox-quick-start/](http://abcfolio.com/help/andora-lightbox-quick-start/).
-
-
-= Premium Version =
-
-[Andora Lightbox Pro](http://abcfolio.com/help/andora-lightbox/) premium version offers these extra features:
-
-* **Responsive.**
-* **Templates.** A few templates to choose from. [**Preview**](http://abcfolio.com/help/andora-lightbox-live-previews/)
-* **Captions.**. Each image can have up to 2 captions. [**Preview**](http://abcfolio.com/help/andora-lightbbox-live-preview-gallery-with-captions/)
-* **Image Metadata.** You can extract image metadata and use it as a caption. [**Preview**](http://abcfolio.com/help/andora-lightbbox-live-preview-single-image-with-captions/)
-* **Single Image Lightbox.** Option to display single image lightbox instead of gallery.
-* **Lazy load.** Lightbox images are preloaded for smooth browsing experience.
-* **Custom CSS.**  You can add custom stylesheet to match the grid gallery layout to your WordPress theme.
-* **Keyboard support.** Lightbox gallery supports keyboard navigation.
-* **Custom image management.** Premium, fully licensed version of our image uploader and organizer [**Image Collections Pro**](http://abcfolio.com/help/wordpress-plugin-image-collections/) is included.
-* **Premium support**. One-on-one priority support.
-
-[Visit our Premium page.](http://abcfolio.com/help/andora-lightbox/)
 
 
 == Installation ==
