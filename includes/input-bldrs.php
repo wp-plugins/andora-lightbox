@@ -32,12 +32,12 @@ function abcfal_inputbldr_hdivider4() { return "<div class=\"abcfalHDivider2\">&
 function abcfal_inputbldr_hdivider501() { return "<div class=\"abcfalHDivider501\">&nbsp;</div>"; }
 function abcfal_inputbldr_hdivider502() { return "<div class=\"abcfalHDivider502\">&nbsp;</div>"; }
 
-function abcfal_iputbldr_floats_cntr_s(){ return '<div class="abcfalFloatsCntr">'; }
-function abcfal_iputbldr_floats_cntr1_s(){ return '<div class="abcfalFloatsCntr1">'; }
-function abcfal_iputbldr_floats_cntr_e(){ return '<div class="abcfalClr"></div></div>'; }
-function abcfal_iputbldr_clr(){ return '<div class="abcfalClr"></div>'; }
+//function abcfal_iputbldr_floats_cntr_s(){ return '<div class="abcfalFloatsCntr">'; }
+//function abcfal_iputbldr_floats_cntr1_s(){ return '<div class="abcfalFloatsCntr1">'; }
+//function abcfal_iputbldr_floats_cntr_e(){ return '<div class="abcfalClr"></div></div>'; }
+//function abcfal_iputbldr_clr(){ return '<div class="abcfalClr"></div>'; }
 
-function abcfal_inputbldr_hdivider994() { return "<div class=\"abcfalHDivider4\">&nbsp;</div>"; }
+//function abcfal_inputbldr_hdivider994() { return "<div class=\"abcfalHDivider4\">&nbsp;</div>"; }
 function abcfal_inputbldr_hlp_wrap($in) { return '<div class="abcfalMboxHlp">' . $in . '</div>'; }
 function abcfal_inputbldr_hlp_wrap12($in) { return '<div class="abcfalMboxHlp12">' . $in . '</div>'; }
 function abcfal_inputbldr_hlp_wrap_b($in) { return '<div class="abcfalMboxHlpB">' . $in . '</div>'; }

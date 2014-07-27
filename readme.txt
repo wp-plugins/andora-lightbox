@@ -7,7 +7,7 @@ Tags: lightbox, gallery, grid gallery, image, images, responsive, responsive gal
 Requires at least: 3.5
 Tested up to: 3.9
 
-Stable tag: 0.5.5
+Stable tag: 0.5.6
 License: GPLv2 or later
 
 Grid Gallery with Lightbox. Fast, light and responsive.
@@ -15,7 +15,9 @@ Grid Gallery with Lightbox. Fast, light and responsive.
 
 == Description ==
 
-**Andora Lightbox** - a beautiful Grid Gallery with Lightbox.
+**Andora Lightbox** - responsive Grid Gallery with Lightbox.
+
+Excellent performance on mobile devices.
 
 = Live Previews =
 
@@ -34,7 +36,7 @@ Grid Gallery with Lightbox. Fast, light and responsive.
 
 [Andora Lightbox](http://abcfolio.com/help/andora-lightbox/) premium version offers these extra features:
 
-* **Social Share Links.** Visitors can pin, post or share individual photos.  [**Preview**](http://abcfolio.com/help/andora-lightbbox-live-preview-gallery-with-captions/)
+* **Social Sharing.** Visitors can share **INDIVIDUAL PHOTOS**.  [**Check how this unique feature works.**](http://abcfolio.com/help/andora-lightbbox-live-preview-gallery-with-captions/)
 * **Captions.**. Each image can have up to 2 captions.
 * **Lazy load.** Images are preloaded for smooth browsing experience.
 * **Keyboard support.** Lightbox gallery supports keyboard navigation.
@@ -75,6 +77,10 @@ Create a Grid Gallery with Lightbox for your site in minutes.
 Installation Instructions: [http://abcfolio.com/help/andora-lighbox-installation/](http://abcfolio.com/help/andora-lighbox-installation/).
 
 == Changelog ==
+
+= 0.5.6 20140727 =
+
+* Update: Removed a few unused functions.
 
 = 0.5.5 20140512 =
 

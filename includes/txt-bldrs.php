@@ -51,7 +51,7 @@ function abcfal_txtbldr($id, $suffix='') {
             $out = __('See Image Collections FAQ:  <a href="http://abcfolio.com/help/wordpress-image-collections-faq/#publish_images">How to Publish images.</a>', 'abcfal-td');
             break;
         case 17:
-            $out = __('Image Collections plugin is missing. Please install the plugin.', 'abcffs-td');
+            $out = __('Image Collections plugin is missing. Please install the plugin.', 'abcfal-td');
             break;
         case 30:
             $out = __('Grid Container - Width.', 'abcfal-td');

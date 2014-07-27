@@ -12,7 +12,7 @@ function abcfal_add_mbox_optns($post_type) {
     if ( abcfal_optns_is_custom_post ( $post_type ) ) {
         add_meta_box(
             'abcfal_mbox_get_optns',
-            __('Options', 'abcflp-td'),
+            __('Options', 'abcfal-td'),
             'abcfal_mbox_get_optns',
             $post_type,
             'normal',
