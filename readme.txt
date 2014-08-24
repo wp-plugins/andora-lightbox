@@ -25,7 +25,7 @@ Excellent performance on mobile devices.
 
 = Features =
 
-* Responsive.
+* Responsive when used with responsive theme.
 * Lightweight script, focused on performance.
 * Custom image uploader and organizer.
 * Unlimited number of images.
@@ -43,7 +43,7 @@ Excellent performance on mobile devices.
 * **Image Metadata.** You can display image metadata as a caption. [**Preview**](http://abcfolio.com/help/andora-lightbbox-live-preview-single-image-with-captions/)
 * **Templates.** A few templates to choose from. [**Preview**](http://abcfolio.com/help/andora-lightbox-live-previews/)
 * **Custom CSS.**  You can match the grid gallery to your WordPress theme.
-* **Custom image management.** Our premium, image uploader and organizer [**Image Collections Pro**](http://abcfolio.com/help/wordpress-plugin-image-collections/) is included.
+* **Custom image management.** Our premium, image uploader and organizer included [**Image Collections Pro**](http://abcfolio.com/help/wordpress-plugin-image-collections/).
 * **Premium support**. One-on-one priority support.
 
 [Visit our Premium page.](http://abcfolio.com/help/andora-lightbox/)
@@ -77,6 +77,9 @@ Create a Grid Gallery with Lightbox for your site in minutes.
 Installation Instructions: [http://abcfolio.com/help/andora-lighbox-installation/](http://abcfolio.com/help/andora-lighbox-installation/).
 
 == Changelog ==
+
+= 0.5.? 2014 =
+FIX: Moved msgs_error to txtbldrs.
 
 = 0.5.6 20140727 =
 
