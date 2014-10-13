@@ -5,9 +5,9 @@ Contributors: abcfolio
 Tags: lightbox, gallery, grid gallery, image, images, responsive, responsive gallery, slideshow, photo, album, photo albums, photos, nextgen, pictures
 
 Requires at least: 3.5
-Tested up to: 3.9
+Tested up to: 4.0
 
-Stable tag: 0.5.6
+Stable tag: 0.5.7
 License: GPLv2 or later
 
 Grid Gallery with Lightbox. Fast, light and responsive.
@@ -78,7 +78,8 @@ Installation Instructions: [http://abcfolio.com/help/andora-lighbox-installation
 
 == Changelog ==
 
-= 0.5.? 2014 =
+= 0.5.7 20141013 =
+
 FIX: Moved msgs_error to txtbldrs.
 
 = 0.5.6 20140727 =

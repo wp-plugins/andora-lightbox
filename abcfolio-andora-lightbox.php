@@ -5,7 +5,7 @@
  * Description: Grid Gallery with Lightbox. Fast, light and responsive.
  * Author: abcFolio
  * Author URI: http://www.abcfolio.com
- * Version: 0.5.6
+ * Version: 0.5.7
 */
 
 // Exit if accessed directly
@@ -61,7 +61,7 @@ final class ABCFAL_Andora_Lightbox {
     private function setup_constants() {
 
         // Plugin version $pversion
-        if ( ! defined( 'ABCFAL_VERSION' ) ) { define( 'ABCFAL_VERSION', '0.5.6' ); }
+        if ( ! defined( 'ABCFAL_VERSION' ) ) { define( 'ABCFAL_VERSION', '0.5.7' ); }
         if ( ! defined( 'ABCFAL_ABSPATH' ) ) {  define('ABCFAL_ABSPATH', ABSPATH); }
 
         // Plugin Folder QPath
