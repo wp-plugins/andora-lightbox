@@ -3,13 +3,13 @@
  *TODO:
  */
 //==Messages===========================================================
-function abcfal_msgs_error($id, $suffix='') { echo '<div class="wrap"><div class="error" id="error"><p>' . abcfal_txtbldr($id, $suffix) . '</p></div></div>'; }
+//function abcfal_msgs_error($id, $suffix='') { echo '<div class="wrap"><div class="error" id="error"><p>' . abcfal_txtbldr($id, $suffix) . '</p></div></div>'; }
 
-function abcfal_msgs_info($id, $suffix='') { echo '<div class="wrap"><div class="updated fade" id="message"><p>' . abcfal_txtbldr($id, $suffix) . '</p></div></div>' . "\n"; }
+//function abcfal_msgs_info($id, $suffix='') { echo '<div class="wrap"><div class="updated fade" id="message"><p>' . abcfal_txtbldr($id, $suffix) . '</p></div></div>' . "\n"; }
 
-function abcfal_msgs_ok() {
-    echo '<div class="wrap"><div id="abcfalOK" class="updated" style="line-height: 1px;"><img src="'  . ABCFIC_PLUGIN_URL .  'images/msgok_32x32.png"></div></div>';
-}
+//function abcfal_msgs_ok() {
+//    echo '<div class="wrap"><div id="abcfalOK" class="updated" style="line-height: 1px;"><img src="'  . ABCFIC_PLUGIN_URL .  'images/msgok_32x32.png"></div></div>';
+//}
 
 
 if ( !function_exists( 'abcf_err_2part_msg' ) ){

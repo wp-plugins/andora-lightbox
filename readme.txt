@@ -7,7 +7,7 @@ Tags: lightbox, gallery, grid gallery, image, images, responsive, responsive gal
 Requires at least: 3.5
 Tested up to: 4.0
 
-Stable tag: 0.5.7
+Stable tag: 0.5.8
 License: GPLv2 or later
 
 Grid Gallery with Lightbox. Fast, light and responsive.
@@ -25,9 +25,9 @@ Excellent performance on mobile devices.
 
 = Features =
 
-* Responsive when used with responsive theme.
-* Lightweight script, focused on performance.
-* Custom image uploader and organizer.
+* Responsive.
+* Lightweight script, great performance.
+* Custom image organizer. Easy to manage large galleries.
 * Unlimited number of images.
 * Easy to add to any page or post - just insert a shortcode.
 * Compatible with all major browsers and mobile devices.
@@ -77,6 +77,10 @@ Create a Grid Gallery with Lightbox for your site in minutes.
 Installation Instructions: [http://abcfolio.com/help/andora-lighbox-installation/](http://abcfolio.com/help/andora-lighbox-installation/).
 
 == Changelog ==
+
+= 0.5.8 20141020 =
+
+FIX: Fixed error duplicate function names.
 
 = 0.5.7 20141013 =
 
