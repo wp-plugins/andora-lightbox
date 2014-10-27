@@ -36,13 +36,13 @@ Excellent performance on mobile devices.
 
 [Andora Lightbox](http://abcfolio.com/help/andora-lightbox/) premium version offers these extra features:
 
-* **Social Sharing.** Visitors can share **INDIVIDUAL PHOTOS**.  [**Check how this unique feature works.**](http://abcfolio.com/help/andora-lightbbox-live-preview-gallery-with-captions/)
+* **Social Sharing.** Visitors can share **INDIVIDUAL PHOTOS**.  [**Check how this feature works.**](http://abcfolio.com/help/andora-lightbbox-live-preview-gallery-with-captions/)
 * **Captions.**. Each image can have up to 2 captions.
 * **Lazy load.** Images are preloaded for smooth browsing experience.
 * **Keyboard support.** Lightbox gallery supports keyboard navigation.
 * **Image Metadata.** You can display image metadata as a caption. [**Preview**](http://abcfolio.com/help/andora-lightbbox-live-preview-single-image-with-captions/)
 * **Templates.** A few templates to choose from. [**Preview**](http://abcfolio.com/help/andora-lightbox-live-previews/)
-* **Custom CSS.**  You can match the grid gallery to your WordPress theme.
+* **Custom styles.**  You can match the grid gallery to your WordPress theme.
 * **Custom image management.** Our premium, image uploader and organizer included [**Image Collections Pro**](http://abcfolio.com/help/wordpress-plugin-image-collections/).
 * **Premium support**. One-on-one priority support.
 
