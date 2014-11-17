@@ -10,7 +10,7 @@ Tested up to: 4.0
 Stable tag: 0.5.8
 License: GPLv2 or later
 
-Grid Gallery with Lightbox. Responsive. Great perfomance.
+Grid Gallery with Lightbox. Responsive. Lightweight script.
 
 
 == Description ==
