@@ -25,7 +25,7 @@ Excellent performance on mobile devices.
 
 = Features =
 
-* Responsive.
+* Responsive when used with responsive theme.
 * Lightweight script, great performance.
 * Custom image organizer. Easy to manage large galleries.
 * Unlimited number of images.
