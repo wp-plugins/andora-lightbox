@@ -5,9 +5,9 @@ Contributors: abcfolio
 Tags: lightbox, gallery, grid gallery, image, images, responsive, responsive gallery, slideshow, photo, album, photo albums, photos, nextgen, pictures
 
 Requires at least: 3.5
-Tested up to: 4.0
+Tested up to: 4.1.1
 
-Stable tag: 0.5.8
+Stable tag: 0.5.9
 License: GPLv2 or later
 
 Grid Gallery with Lightbox. Responsive. Lightweight script.
@@ -77,6 +77,10 @@ Create a Grid Gallery with Lightbox for your site in minutes.
 Installation Instructions: [http://abcfolio.com/help/andora-lighbox-installation/](http://abcfolio.com/help/andora-lighbox-installation/).
 
 == Changelog ==
+
+= 0.5.9 20150407 =
+
+Update: Tested with WordPress 4.1.1.
 
 = 0.5.8 20141020 =
 
